@@ -1,0 +1,14 @@
+.text{
+    width: 5ch;
+    font-family: monospace;
+    overflow: hidden;
+    border-right: solid 1px;
+    color: aliceblue;
+    animation: typing 1s steps(5);
+    
+
+}
+
+    @keyframes typing {
+        from{width: 0ch}
+    }
